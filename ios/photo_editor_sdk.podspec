@@ -20,7 +20,7 @@ The official Flutter plugin for PhotoEditor SDK. Integrate the photo editor into
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
-  s.platform = :ios, '9.0'
+  s.platform = :ios, '10.0'
   s.dependency 'imgly_sdk'
 
   # Flutter.framework does not contain a i386 slice.
